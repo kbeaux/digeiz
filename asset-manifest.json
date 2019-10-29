@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/digeiz/static/css/main.5d7239b8.chunk.css",
+    "main.js": "/digeiz/static/js/main.3827e855.chunk.js",
+    "main.js.map": "/digeiz/static/js/main.3827e855.chunk.js.map",
+    "runtime-main.js": "/digeiz/static/js/runtime-main.61a4236a.js",
+    "runtime-main.js.map": "/digeiz/static/js/runtime-main.61a4236a.js.map",
+    "static/js/2.234f8d71.chunk.js": "/digeiz/static/js/2.234f8d71.chunk.js",
+    "static/js/2.234f8d71.chunk.js.map": "/digeiz/static/js/2.234f8d71.chunk.js.map",
+    "index.html": "/digeiz/index.html",
+    "precache-manifest.e4165edfd7d50ea3c17d4c04d3d4586c.js": "/digeiz/precache-manifest.e4165edfd7d50ea3c17d4c04d3d4586c.js",
+    "service-worker.js": "/digeiz/service-worker.js",
+    "static/css/main.5d7239b8.chunk.css.map": "/digeiz/static/css/main.5d7239b8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61a4236a.js",
+    "static/js/2.234f8d71.chunk.js",
+    "static/css/main.5d7239b8.chunk.css",
+    "static/js/main.3827e855.chunk.js"
+  ]
+}
